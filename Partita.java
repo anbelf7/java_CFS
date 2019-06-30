@@ -1,5 +1,3 @@
-package com.company;
-
 public class Partita {
 
     private int lanci;
